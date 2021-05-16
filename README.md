@@ -43,16 +43,18 @@ I believe that this script may be used not only for auditing this congressional 
 Based on our outcomes from the Colorado audit we can see that with this script, we are able to parse through an immense amount of data in a matter 
 of seconds. Not only are we able to get the percentage outcomes for each candidate, but what if half way through the race another candidate decides to 
 run for office? Well by simply adding the information to our current CSV file the script will automatically add the new candidate names and counties 
-to our outcome. Refer to the image below, notice that 3 new candidates from 3 separate counties have joined this election. The script went ahead and 
+to our outcome. Refer to the image below, notice that 3 new candidates have joined this election. The script went ahead and 
 added the calculations for the votes.
 
-* [sample1](resources/sample1.PNG)
+* [New Candidates](resources/sample2.PNG)
 
 
 Futhermore, with the past election there were rumors that the election was rigged and that every vote should be counted. Well with this script
-we can assure that all ballots will be accounted for. The most simple way to do this is by simply adding a new variable to load data from. By looking at
+we can assure that all ballots will be accounted for. The most simple way to do this is by adding a new variable to load a new csv from. By looking at
 the example below we can see that our list of candidates for smaller while our list for counties got much bigger. This is a sample of how the script would run 
 with a different data set. 
 
+* [New Counties](resources/sample1.PNG)
+* [Snip of Code](resources/sampleofcode2.PNG)
 
 Please note if you were to do it on a country level, the "county" variable would be switched to "states".
