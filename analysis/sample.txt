@@ -1,0 +1,27 @@
+
+Election Results
+----------------------------
+Total Votes: 371,247
+----------------------------
+County Votes:
+Jefferson: 10.47% (38,855)
+Denver: 82.44% (306,055)
+Arapahoe: 6.68% (24,801)
+Adams: 0.05% (192)
+Alamosa: 0.05% (192)
+Baca: 0.05% (192)
+Bent: 0.05% (192)
+Boulder: 0.05% (192)
+Bloomfied: 0.05% (192)
+Chaffe: 0.05% (192)
+Lake: 0.05% (192)
+----------------------------
+largest county turnout: Denver
+----------------------------
+Charles Casper Stockham: 26.3% (97,524)
+Diana DeGette: 73.7% (273,723)
+----------------------------
+Winner: Diana DeGette
+Winning Vote Count: 273,723
+Winning Percentage: 73.7%
+----------------------------
