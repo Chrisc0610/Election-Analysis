@@ -46,7 +46,7 @@ run for office? Well by simply adding the information to our current CSV file th
 to our outcome. Refer to the image below, notice that 3 new candidates from 3 separate counties have joined this election. The script went ahead and 
 added the calculations for the votes.
 
--[sample1](resources/sample1.PNG)
+* [sample1](resources/sample1.PNG)
 
 
 Futhermore, with the past election there were rumors that the election was rigged and that every vote should be counted. Well with this script
