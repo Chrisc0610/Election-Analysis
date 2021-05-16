@@ -39,7 +39,7 @@ The results for the Election-Audit are explained in the bullets below.
 
 	
 ## Summary
-I beleive that this script may be used not only for auditing this congressional board for Colorado but for any State, Country or any voting pool.
+I believe that this script may be used not only for auditing this congressional board for Colorado but for any State, Country or any voting pool.
 Based on our outcomes from the Colorado audit we can see that with this script, we are able to parse through an immense amount of data in a matter 
 of seconds. Not only are we able to get the percentage outcomes for each candidate, but what if half way through the race another candidate decides to 
 run for office? Well by simply adding the information to our current CSV file the script will automatically add the new candidate names and counties 
